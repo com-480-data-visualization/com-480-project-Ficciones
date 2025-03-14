@@ -2,9 +2,9 @@
 
 | Student's name | SCIPER |
 | -------------- | ------ |
-| | |
-| | |
-| | |
+| Zhiyao Yan | 399669 |
+| Ren Yi | |
+| Botu Lyu | 396507 |
 
 [Milestone 1](#milestone-1) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
 
