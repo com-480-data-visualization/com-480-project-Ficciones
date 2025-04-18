@@ -168,17 +168,17 @@ Very helpful related lectures:
 
 #### Goals Breakdown
 
-**Task 1 and core idea**: interactive map of Switzerland
+**Core Idea: interactive map of Switzerland**
 
 - Illustrating key indicators such as economy, population, and employment.
 - Allowing users to hover over cantons to check the specific statistic of the canton
 - Using colors to indicate the value of each canton
 
-**Task 2**: Enable direct comparisons between two cantons, offering a multi-angle perspective on "Which canton is happier?"
+**Optional Enhancements:**
 
-**Task 3**: Display trends over time, analyzing how social and economic conditions have evolved across different cantons.
-
-**Optional Enhancements:** Enable user-defined happiness index by assigning weights to key indicators such as GDP per capita and employment rate. **Interactive sliders allow users to intuitively adjust preferences, with instant visual feedback and live-updated rankings**, making the experience both exploratory and engaging.
+1. Enable direct comparisons between two cantons, offering a multi-angle perspective on "Which canton is happier?"
+2. Display trends over time, analyzing how social and economic conditions have evolved across different cantons.
+3. Enable user defined happiness index, by assigning weights to key happiness indicators such as GDP per capita, employment rate.  **Interactive sliders allow users to intuitively adjust preferences, with instant visual feedback and live-updated rankings**, making the experience both exploratory and engaging.
 
 ### Functional Prototype
 
