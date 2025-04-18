@@ -8,7 +8,7 @@
 
 [Milestone 1](#milestone-1) • [Milestone 2](#Milestone-2) • [Milestone 3](#Milestone-3)
 
-## Milestone 1
+# Milestone 1
 
 
 ### Dataset
@@ -105,13 +105,15 @@ This dataset has not been used in any other course or project before.
 
 
 
-## Milestone 2 (18th April, 5pm)
+## Milestone 2
 
-## Project Goal
+### Project Goal
 
 The goal of our project, **“Happiness Index Across Swiss Cantons,”** is to explore regional variations in quality of life across Switzerland through a multi-dimensional, data-driven lens. Our aim is not to define happiness with a single metric, but rather to let users interactively explore relevant socio-economic factors and derive their own insights.
 
-### Visualize Socio-Economic Indicators Across Cantons
+#### Sketches of visualisation
+
+##### 1. Visualize Socio-Economic Indicators Across Cantons
 
 We will provide an **interactive choropleth map** of Switzerland where users can:
 
@@ -121,7 +123,7 @@ We will provide an **interactive choropleth map** of Switzerland where users can
 
   ![single canton](./fig/sketch_single_canton.png)
 
-### Enable Canton Comparison
+##### 2. Enable Canton Comparison
 
 Users can:
 
@@ -130,7 +132,7 @@ Users can:
 
 ![compare cantons](./fig/sketch_compare_cantons.png)
 
-### Explore Trends Over Time
+##### 3. Explore Trends Over Time
 
 We will visualize how indicators such as GDP and population have **changed over time** for individual cantons, allowing users to:
 
@@ -139,7 +141,7 @@ We will visualize how indicators such as GDP and population have **changed over 
 
 ![canton details](./fig/sketch_canton_details.png)
 
-### Happiness Oriented Display
+##### 4. Happiness Oriented Display
 
 Since happiness is subjective, we aim to:
 
@@ -148,7 +150,7 @@ Since happiness is subjective, we aim to:
 
 ![ranking](./fig/sketch_ranking.png)
 
-## Tools for the Visualizations
+#### Tools for the Visualizations
 
 So far, we have used the following tools for building the visualizations:
 
@@ -164,7 +166,7 @@ Very helpful related lectures:
 - **Lecture: Interactions** – influenced map hover/click behavior design
 - **Lecture: Mark, channels** – how we encoded values visually in bar/radar charts  
 
-## Goals Breakdown
+#### Goals Breakdown
 
 **Task 1 and core idea**: interactive map of Switzerland
 
@@ -178,7 +180,7 @@ Very helpful related lectures:
 
 **Optional Enhancements:** Enable user-defined happiness index by assigning weights to key indicators such as GDP per capita and employment rate. **Interactive sliders allow users to intuitively adjust preferences, with instant visual feedback and live-updated rankings**, making the experience both exploratory and engaging.
 
-## Functional Prototype
+### Functional Prototype
 
 https://com-480-data-visualization.github.io/com-480-project-Ficciones/
 
