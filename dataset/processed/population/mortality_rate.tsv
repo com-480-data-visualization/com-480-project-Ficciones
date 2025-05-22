@@ -1,8 +1,8 @@
 title	year	value	canton	file_year
 Crude mortality rate	2013	7.4	Nidwalden	2015
 Crude mortality rate	2013	7.2	Aargau	2015
-Crude mortality rate	2013	9.6	Appenzell	2015
-Crude mortality rate	2013	8.8	Appenzell	2015
+Crude mortality rate	2013	9.6	Appenzell Ausserrhoden	2015
+Crude mortality rate	2013	8.8	Appenzell Innerrhoden	2015
 Crude mortality rate	2013	8.6	Basel-Landschaft	2015
 Crude mortality rate	2013	10.9	Basel-Stadt	2015
 Crude mortality rate	2013	9.6	Bern	2015
@@ -15,7 +15,7 @@ Crude mortality rate	2013	7.4	Lucerne	2015
 Crude mortality rate	2013	9.0	Neuchâtel	2015
 Crude mortality rate	2013	7.6	Zurich	2015
 Crude mortality rate	2013	7.7	Obwalden	2015
-Crude mortality rate	2013	7.6	Saint	2015
+Crude mortality rate	2013	7.6	Saint Gallen	2015
 Crude mortality rate	2013	9.3	Schaffhausen	2015
 Crude mortality rate	2013	7.3	Schwyz	2015
 Crude mortality rate	2013	8.8	Solothurn	2015
@@ -36,7 +36,7 @@ Crude mortality rate	2014	7.5	Thurgau	2016
 Crude mortality rate	2014	8.9	Solothurn	2016
 Crude mortality rate	2014	7.0	Schwyz	2016
 Crude mortality rate	2014	9.8	Schaffhausen	2016
-Crude mortality rate	2014	7.7	Saint	2016
+Crude mortality rate	2014	7.7	Saint Gallen	2016
 Crude mortality rate	2014	7.0	Obwalden	2016
 Crude mortality rate	2014	7.8	Bern	2016
 Crude mortality rate	2014	9.2	Neuchâtel	2016
@@ -48,14 +48,14 @@ Crude mortality rate	2014	6.7	Fribourg	2016
 Crude mortality rate	2014	9.1	Bern	2016
 Crude mortality rate	2014	11.3	Basel-Stadt	2016
 Crude mortality rate	2014	8.5	Basel-Landschaft	2016
-Crude mortality rate	2014	8.3	Appenzell	2016
-Crude mortality rate	2014	8.9	Appenzell	2016
+Crude mortality rate	2014	8.3	Appenzell Innerrhoden	2016
+Crude mortality rate	2014	8.9	Appenzell Ausserrhoden	2016
 Crude mortality rate	2014	7.0	Aargau	2016
 Crude mortality rate	2014	7.4	Lucerne	2016
 Crude mortality rate	2014	7.3	Zurich	2016
 Crude mortality rate	2015	8.2	Bern	2017
 Crude mortality rate	2015	7.7	Zurich	2017
-Crude mortality rate	2015	9.4	Appenzell	2017
+Crude mortality rate	2015	9.4	Appenzell Ausserrhoden	2017
 Crude mortality rate	2015	6.1	Zug	2017
 Crude mortality rate	2015	7.3	Vaud	2017
 Crude mortality rate	2015	8.2	Valais	2017
@@ -65,7 +65,7 @@ Crude mortality rate	2015	7.3	Thurgau	2017
 Crude mortality rate	2015	9.4	Solothurn	2017
 Crude mortality rate	2015	7.6	Schwyz	2017
 Crude mortality rate	2015	9.3	Schaffhausen	2017
-Crude mortality rate	2015	7.9	Saint	2017
+Crude mortality rate	2015	7.9	Saint Gallen	2017
 Crude mortality rate	2015	7.3	Obwalden	2017
 Crude mortality rate	2015	7.5	Aargau	2017
 Crude mortality rate	2015	9.3	Neuchâtel	2017
@@ -78,7 +78,7 @@ Crude mortality rate	2015	6.7	Fribourg	2017
 Crude mortality rate	2015	9.5	Bern	2017
 Crude mortality rate	2015	11.2	Basel-Stadt	2017
 Crude mortality rate	2015	8.9	Basel-Landschaft	2017
-Crude mortality rate	2015	8.6	Appenzell	2017
+Crude mortality rate	2015	8.6	Appenzell Innerrhoden	2017
 Crude mortality rate	2015	7.2	Nidwalden	2017
 Crude mortality rate	2016	9.3	Schaffhausen	2018
 Crude mortality rate	2016	7.3	Schwyz	2018
@@ -88,7 +88,7 @@ Crude mortality rate	2016	6.1	Zug	2018
 Crude mortality rate	2016	9.7	Uri	2018
 Crude mortality rate	2016	7.7	Valais	2018
 Crude mortality rate	2016	6.9	Vaud	2018
-Crude mortality rate	2016	7.7	Saint	2018
+Crude mortality rate	2016	7.7	Saint Gallen	2018
 Crude mortality rate	2016	8.5	Ticino	2018
 Crude mortality rate	2016	6.6	Obwalden	2018
 Crude mortality rate	2016	9.2	Glarus	2018
@@ -101,10 +101,10 @@ Crude mortality rate	2016	6.5	Fribourg	2018
 Crude mortality rate	2016	9.2	Bern	2018
 Crude mortality rate	2016	10.3	Basel-Stadt	2018
 Crude mortality rate	2016	8.6	Basel-Landschaft	2018
-Crude mortality rate	2016	9.7	Appenzell	2018
+Crude mortality rate	2016	9.7	Appenzell Innerrhoden	2018
 Crude mortality rate	2016	7.2	Aargau	2018
 Crude mortality rate	2016	7.0	Nidwalden	2018
-Crude mortality rate	2016	9.2	Appenzell	2018
+Crude mortality rate	2016	9.2	Appenzell Ausserrhoden	2018
 Crude mortality rate	2016	7.8	Bern	2018
 Crude mortality rate	2016	7.3	Zurich	2018
 Crude mortality rate	2017	7.9	Switzerland	2019
@@ -117,13 +117,13 @@ Crude mortality rate	2017	7.3	Thurgau	2019
 Crude mortality rate	2017	9.0	Solothurn	2019
 Crude mortality rate	2017	6.8	Schwyz	2019
 Crude mortality rate	2017	9.1	Schaffhausen	2019
-Crude mortality rate	2017	7.7	Saint	2019
+Crude mortality rate	2017	7.7	Saint Gallen	2019
 Crude mortality rate	2017	7.4	Obwalden	2019
 Crude mortality rate	2017	7.1	Aargau	2019
 Crude mortality rate	2017	9.0	Neuchâtel	2019
 Crude mortality rate	2017	7.8	Nidwalden	2019
-Crude mortality rate	2017	9.2	Appenzell	2019
-Crude mortality rate	2017	7.5	Appenzell	2019
+Crude mortality rate	2017	9.2	Appenzell Ausserrhoden	2019
+Crude mortality rate	2017	7.5	Appenzell Innerrhoden	2019
 Crude mortality rate	2017	8.6	Basel-Landschaft	2019
 Crude mortality rate	2017	11.0	Basel-Stadt	2019
 Crude mortality rate	2017	9.2	Bern	2019
@@ -143,12 +143,12 @@ Crude mortality rate	2018	6.8	Geneva	2020
 Crude mortality rate	2018	10.7	Basel-Stadt	2020
 Crude mortality rate	2018	9.1	Bern	2020
 Crude mortality rate	2018	8.5	Basel-Landschaft	2020
-Crude mortality rate	2018	8.5	Appenzell	2020
-Crude mortality rate	2018	8.3	Appenzell	2020
+Crude mortality rate	2018	8.5	Appenzell Innerrhoden	2020
+Crude mortality rate	2018	8.3	Appenzell Ausserrhoden	2020
 Crude mortality rate	2018	6.5	Fribourg	2020
 Crude mortality rate	2018	7.1	Aargau	2020
 Crude mortality rate	2018	7.0	Nidwalden	2020
-Crude mortality rate	2018	7.7	Saint	2020
+Crude mortality rate	2018	7.7	Saint Gallen	2020
 Crude mortality rate	2018	7.9	Switzerland	2020
 Crude mortality rate	2018	7.3	Zurich	2020
 Crude mortality rate	2018	6.5	Zug	2020
@@ -170,7 +170,7 @@ Crude mortality rate	2019	8.4	Uri	2021
 Crude mortality rate	2019	8.4	Valais	2021
 Crude mortality rate	2019	6.8	Vaud	2021
 Crude mortality rate	2019	6.2	Zug	2021
-Crude mortality rate	2019	7.9	Saint	2021
+Crude mortality rate	2019	7.9	Saint Gallen	2021
 Crude mortality rate	2019	9.2	Ticino	2021
 Crude mortality rate	2019	7.4	Obwalden	2021
 Crude mortality rate	2019	6.7	Geneva	2021
@@ -183,8 +183,8 @@ Crude mortality rate	2019	6.6	Fribourg	2021
 Crude mortality rate	2019	9.3	Bern	2021
 Crude mortality rate	2019	10.6	Basel-Stadt	2021
 Crude mortality rate	2019	8.6	Basel-Landschaft	2021
-Crude mortality rate	2019	8.3	Appenzell	2021
-Crude mortality rate	2019	8.7	Appenzell	2021
+Crude mortality rate	2019	8.3	Appenzell Innerrhoden	2021
+Crude mortality rate	2019	8.7	Appenzell Ausserrhoden	2021
 Crude mortality rate	2019	7.3	Aargau	2021
 Crude mortality rate	2019	7.8	Nidwalden	2021
 Crude mortality rate	2019	7.9	Switzerland	2021

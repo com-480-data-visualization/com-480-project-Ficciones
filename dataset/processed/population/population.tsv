@@ -1,7 +1,7 @@
 title	year	value	canton	file_year
 Residents	2010	611,466	Aargau	2012
-Residents	2010	53,017	Appenzell	2012
-Residents	2010	15,688	Appenzell	2012
+Residents	2010	53,017	Appenzell Ausserrhoden	2012
+Residents	2010	15,688	Appenzell Innerrhoden	2012
 Residents	2010	274,404	Basel-Landschaft	2012
 Residents	2010	184,950	Basel-Stadt	2012
 Residents	2010	979,802	Bern	2012
@@ -14,7 +14,7 @@ Residents	2010	377,610	Lucerne	2012
 Residents	2010	172,085	Neuchâtel	2012
 Residents	2010	41,024	Nidwalden	2012
 Residents	2010	35,585	Obwalden	2012
-Residents	2010	478,907	Saint	2012
+Residents	2010	478,907	Saint Gallen	2012
 Residents	2010	76,356	Schaffhausen	2012
 Residents	2010	146,730	Schwyz	2012
 Residents	2010	255,284	Solothurn	2012
@@ -27,8 +27,8 @@ Residents	2010	113,105	Zug	2012
 Residents	2010	1,373,068	Zurich	2012
 Residents	2010	7,870,134	Switzerland	2012
 Residents	2011	618,298	Aargau	2013
-Residents	2011	53,313	Appenzell	2013
-Residents	2011	15,743	Appenzell	2013
+Residents	2011	53,313	Appenzell Ausserrhoden	2013
+Residents	2011	15,743	Appenzell Innerrhoden	2013
 Residents	2011	275,360	Basel-Landschaft	2013
 Residents	2011	186,255	Basel-Stadt	2013
 Residents	2011	985,046	Bern	2013
@@ -41,7 +41,7 @@ Residents	2011	381,966	Lucerne	2013
 Residents	2011	173,183	Neuchâtel	2013
 Residents	2011	41,311	Nidwalden	2013
 Residents	2011	35,885	Obwalden	2013
-Residents	2011	483,156	Saint	2013
+Residents	2011	483,156	Saint Gallen	2013
 Residents	2011	77,139	Schaffhausen	2013
 Residents	2011	147,904	Schwyz	2013
 Residents	2011	256,990	Solothurn	2013
@@ -54,8 +54,8 @@ Residents	2011	115,104	Zug	2013
 Residents	2011	1,392,396	Zurich	2013
 Residents	2011	7,954,662	Switzerland	2013
 Residents	2017	670,988	Aargau	2019
-Residents	2017	55,178	Appenzell	2019
-Residents	2017	16,105	Appenzell	2019
+Residents	2017	55,178	Appenzell Ausserrhoden	2019
+Residents	2017	16,105	Appenzell Innerrhoden	2019
 Residents	2017	287,023	Basel-Landschaft	2019
 Residents	2017	193,908	Basel-Stadt	2019
 Residents	2017	1,031,126	Bern	2019
@@ -68,7 +68,7 @@ Residents	2017	406,506	Lucerne	2019
 Residents	2017	177,964	Neuchâtel	2019
 Residents	2017	42,969	Nidwalden	2019
 Residents	2017	37,575	Obwalden	2019
-Residents	2017	504,686	Saint	2019
+Residents	2017	504,686	Saint Gallen	2019
 Residents	2017	81,351	Schaffhausen	2019
 Residents	2017	157,301	Schwyz	2019
 Residents	2017	271,432	Solothurn	2019
@@ -81,8 +81,8 @@ Residents	2017	125,421	Zug	2019
 Residents	2017	1,504,346	Zurich	2019
 Residents	2017	8,484,130	Switzerland	2019
 Residents	2018	678,207	Aargau	2020
-Residents	2018	55,234	Appenzell	2020
-Residents	2018	16,145	Appenzell	2020
+Residents	2018	55,234	Appenzell Ausserrhoden	2020
+Residents	2018	16,145	Appenzell Innerrhoden	2020
 Residents	2018	288,132	Basel-Landschaft	2020
 Residents	2018	194,766	Basel-Stadt	2020
 Residents	2018	1,034,977	Bern	2020
@@ -95,7 +95,7 @@ Residents	2018	409,557	Lucerne	2020
 Residents	2018	176,850	Neuchâtel	2020
 Residents	2018	43,223	Nidwalden	2020
 Residents	2018	37,841	Obwalden	2020
-Residents	2018	507,697	Saint	2020
+Residents	2018	507,697	Saint Gallen	2020
 Residents	2018	81,991	Schaffhausen	2020
 Residents	2018	159,165	Schwyz	2020
 Residents	2018	273,194	Solothurn	2020
@@ -108,8 +108,8 @@ Residents	2018	126,837	Zug	2020
 Residents	2018	1,520,968	Zurich	2020
 Residents	2018	8,544,527	Switzerland	2020
 Residents	2019	685,845	Aargau	2021
-Residents	2019	55,445	Appenzell	2021
-Residents	2019	16,128	Appenzell	2021
+Residents	2019	55,445	Appenzell Ausserrhoden	2021
+Residents	2019	16,128	Appenzell Innerrhoden	2021
 Residents	2019	289,468	Basel-Landschaft	2021
 Residents	2019	195,844	Basel-Stadt	2021
 Residents	2019	1,039,474	Bern	2021
@@ -122,7 +122,7 @@ Residents	2019	413,120	Lucerne	2021
 Residents	2019	176,496	Neuchâtel	2021
 Residents	2019	43,087	Nidwalden	2021
 Residents	2019	37,930	Obwalden	2021
-Residents	2019	510,734	Saint	2021
+Residents	2019	510,734	Saint Gallen	2021
 Residents	2019	82,348	Schaffhausen	2021
 Residents	2019	160,480	Schwyz	2021
 Residents	2019	275,247	Solothurn	2021
@@ -135,8 +135,8 @@ Residents	2019	127,642	Zug	2021
 Residents	2019	1,539,275	Zurich	2021
 Residents	2019	8,606,033	Switzerland	2021
 Residents	2012	627,340	Aargau	2014
-Residents	2012	53,438	Appenzell	2014
-Residents	2012	15,717	Appenzell	2014
+Residents	2012	53,438	Appenzell Ausserrhoden	2014
+Residents	2012	15,717	Appenzell Innerrhoden	2014
 Residents	2012	276,537	Basel-Landschaft	2014
 Residents	2012	187,425	Basel-Stadt	2014
 Residents	2012	992,617	Bern	2014
@@ -149,7 +149,7 @@ Residents	2012	386,082	Lucerne	2014
 Residents	2012	174,554	Neuchâtel	2014
 Residents	2012	41,584	Nidwalden	2014
 Residents	2012	36,115	Obwalden	2014
-Residents	2012	487,060	Saint	2014
+Residents	2012	487,060	Saint Gallen	2014
 Residents	2012	77,955	Schaffhausen	2014
 Residents	2012	149,830	Schwyz	2014
 Residents	2012	259,283	Solothurn	2014
@@ -162,8 +162,8 @@ Residents	2012	116,575	Zug	2014
 Residents	2012	1,408,575	Zurich	2014
 Residents	2012	8,039,060	Switzerland	2014
 Residents	2013	636,362	Aargau	2015
-Residents	2013	53,691	Appenzell	2015
-Residents	2013	15,778	Appenzell	2015
+Residents	2013	53,691	Appenzell Ausserrhoden	2015
+Residents	2013	15,778	Appenzell Innerrhoden	2015
 Residents	2013	278,656	Basel-Landschaft	2015
 Residents	2013	189,335	Basel-Stadt	2015
 Residents	2013	1,001,281	Bern	2015
@@ -176,7 +176,7 @@ Residents	2013	390,349	Lucerne	2015
 Residents	2013	176,402	Neuchâtel	2015
 Residents	2013	41,888	Nidwalden	2015
 Residents	2013	36,507	Obwalden	2015
-Residents	2013	491,699	Saint	2015
+Residents	2013	491,699	Saint Gallen	2015
 Residents	2013	78,783	Schaffhausen	2015
 Residents	2013	151,396	Schwyz	2015
 Residents	2013	261,437	Solothurn	2015
@@ -189,8 +189,8 @@ Residents	2013	118,118	Zug	2015
 Residents	2013	1,425,538	Zurich	2015
 Residents	2013	8,139,631	Switzerland	2015
 Residents	2014	645,277	Aargau	2016
-Residents	2014	54,064	Appenzell	2016
-Residents	2014	15,854	Appenzell	2016
+Residents	2014	54,064	Appenzell Ausserrhoden	2016
+Residents	2014	15,854	Appenzell Innerrhoden	2016
 Residents	2014	281,301	Basel-Landschaft	2016
 Residents	2014	190,580	Basel-Stadt	2016
 Residents	2014	1,009,418	Bern	2016
@@ -203,7 +203,7 @@ Residents	2014	394,604	Lucerne	2016
 Residents	2014	177,327	Neuchâtel	2016
 Residents	2014	42,080	Nidwalden	2016
 Residents	2014	36,834	Obwalden	2016
-Residents	2014	495,824	Saint	2016
+Residents	2014	495,824	Saint Gallen	2016
 Residents	2014	79,417	Schaffhausen	2016
 Residents	2014	152,759	Schwyz	2016
 Residents	2014	263,719	Solothurn	2016
@@ -216,8 +216,8 @@ Residents	2014	120,089	Zug	2016
 Residents	2014	1,446,354	Zurich	2016
 Residents	2014	8,237,666	Bern	2016
 Residents	2015	653,675	Aargau	2017
-Residents	2015	54,543	Appenzell	2017
-Residents	2015	15,974	Appenzell	2017
+Residents	2015	54,543	Appenzell Ausserrhoden	2017
+Residents	2015	15,974	Appenzell Innerrhoden	2017
 Residents	2015	283,231	Basel-Landschaft	2017
 Residents	2015	191,817	Basel-Stadt	2017
 Residents	2015	1,017,483	Bern	2017
@@ -230,7 +230,7 @@ Residents	2015	398,762	Lucerne	2017
 Residents	2015	178,107	Neuchâtel	2017
 Residents	2015	42,420	Nidwalden	2017
 Residents	2015	37,076	Obwalden	2017
-Residents	2015	499,065	Saint	2017
+Residents	2015	499,065	Saint Gallen	2017
 Residents	2015	79,836	Schaffhausen	2017
 Residents	2015	154,093	Schwyz	2017
 Residents	2015	266,418	Solothurn	2017
@@ -243,8 +243,8 @@ Residents	2015	122,134	Zug	2017
 Residents	2015	1,466,424	Zurich	2017
 Residents	2015	8,327,126	Bern	2017
 Residents	2016	663,462	Aargau	2018
-Residents	2016	54,954	Appenzell	2018
-Residents	2016	16,003	Appenzell	2018
+Residents	2016	54,954	Appenzell Ausserrhoden	2018
+Residents	2016	16,003	Appenzell Innerrhoden	2018
 Residents	2016	285,624	Basel-Landschaft	2018
 Residents	2016	193,070	Basel-Stadt	2018
 Residents	2016	1,026,513	Bern	2018
@@ -257,7 +257,7 @@ Residents	2016	403,397	Lucerne	2018
 Residents	2016	178,567	Neuchâtel	2018
 Residents	2016	42,556	Nidwalden	2018
 Residents	2016	37,378	Obwalden	2018
-Residents	2016	502,552	Saint	2018
+Residents	2016	502,552	Saint Gallen	2018
 Residents	2016	80,769	Schaffhausen	2018
 Residents	2016	155,863	Schwyz	2018
 Residents	2016	269,441	Solothurn	2018
